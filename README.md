@@ -21,4 +21,7 @@ Projeto de Notas feito em .NET MAUI na aula de Programação de Aplicativos Mobi
 
 ## 🌎 | Links
 
-[Link do projeto da Microsoft](https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/?tutorial-step=1)
+[Você também pode fazer o seu próprio projeto clicando aqui](https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/?tutorial-step=1)
+
+<h4> Geovana Nascimento & Erika Santana</h4>
+
