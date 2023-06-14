@@ -1,5 +1,10 @@
-# 📝 | Notes
-Projeto de Notas feito em .NET MAUI na aula de PdAMI (Programação de Aplicativos Mobile I), Aprendemos a utilizar Data e multi páginas.
+  <h1 align="center">
+<img heigt="150" width="60"  src="https://simpleicons.org/icons/android.svg">
+</h1>
+
+<h1 align="center">Notes </h1>
+
+Projeto de Notas feito em .NET MAUI na aula de Programação de Aplicativos Mobile I, onde aprendemos a utilizar Data e multi páginas.
 
 ## ⚙️ | Funcionamento
 
